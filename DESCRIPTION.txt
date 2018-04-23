@@ -1,0 +1,10 @@
+Package: Phenotyping
+Type: Package
+Title: Phenotyping 
+Version: 0.1.0
+Author: Signe M.Jensen
+Maintainer: Signe M. Jensen <smj@plen.ku.dk>
+Description: A collection of R functions available for everybody, but with the main purpose to help breeders as part of the 6P project
+License: GPL
+Encoding: UTF-8
+LazyData: true
